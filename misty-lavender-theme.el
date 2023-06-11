@@ -5,7 +5,7 @@
 ;; Author: Mistyhands
 ;; Version: 0.1
 ;; Package-Requires: ((emacs "24.1"))
-;; https://github.com/mistyhands/misty-lavender-theme
+;; URL: https://github.com/mistyhands/misty-lavender-theme
 ;; Created with ThemeCreator, https://github.com/mswift42/themecreator.
 
 ;; This program is free software: you can redistribute it and/or modify
